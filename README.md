@@ -1,2 +1,2 @@
 # Intensivao_Javascript
- Mini curso intensivo de Javascript
+Loja de roupas com Javascript, HTML e CSS
