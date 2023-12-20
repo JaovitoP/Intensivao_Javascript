@@ -1,5 +1,5 @@
 export const catalogo =[{
-    id: 1,
+    id: '1',
     nome: 'Moletom Enrugado',
     tamanho: 'M',
     marca: 'Zara',
@@ -7,7 +7,7 @@ export const catalogo =[{
     nomeArquivoImagem: 'moletom_enrugado.jpg'
     },
     {
-    id: 2,
+    id: '2',
     nome: 'Moletom Branco',
     tamanho: 'G',
     marca: 'Zara',
@@ -15,7 +15,7 @@ export const catalogo =[{
     nomeArquivoImagem: 'moletom_branco.jpg'
     },
     {
-    id: 3,
+    id: '3',
     nome: 'Moletom com Pespontos',
     tamanho: 'P',
     marca: 'Zara',
@@ -23,7 +23,7 @@ export const catalogo =[{
     nomeArquivoImagem: 'moletom_pespontos.jpg'
     },
     {
-    id: 4,
+    id: '4',
     nome: 'Moletom Verde',
     tamanho: 'PP',
     marca: 'Zara',
@@ -31,7 +31,7 @@ export const catalogo =[{
     nomeArquivoImagem: 'moletom_verde.jpg'
     },
     {
-    id: 5,
+    id: '5',
     nome: 'Moletom Azul',
     tamanho: 'GG',
     marca: 'Zara',
